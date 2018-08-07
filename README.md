@@ -1,4 +1,4 @@
-# y2-starter_kit
+# Y2 Summer project kit
 This is the starter kit for the websites for the Y2 summer 2018
 
 ## Instructions:
