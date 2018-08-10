@@ -9,11 +9,10 @@ Base = declarative_base()
 
 # Example code:
 class Student(Base):
-    __tablename__ = "student"
+    __tablename__ = "students"
     id = Column(Integer, primary_key = True)
     name = Column(String)
     year = Column(Integer)
 
-
     def __repr__(self):
-        return ("Student name: {}\nStudent Year:{}".format(self.name, self.year))
+        return ("Student name: {}, Student year:{}".format(self.name, self.year))
