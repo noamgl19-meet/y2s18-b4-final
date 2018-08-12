@@ -1,13 +1,12 @@
 # HackMEET: Y2 CS Summer Starter Kit
-This is the starter kit for the websites for the Y2 summer 2018
+This is the starter kit for the websites for the Y2 Summer 2018.
 
 ## Instructions:
-In order to begin using this starter kit, make sure you **fork** the repository and then clone it.
+To use this starter kit: **DO NOT FORK!**
 ```bash
-git clone https://github.com/YOUR_USERNAME/y2s18-project.git
+git clone https://github.com/meet-projects/y2s18-YOUR_TEAM_NUMBER-final.git
 ```
-Make sure your clone link includes **YOUR** username, not meet-projects.
-After you fork, clone the repository and you can start working on it.
+Make sure your clone link includes **YOUR ACTUAL TEAM NUMBER** instead of the placeholder `**YOUR_TEAM_NUMBER**`.
 
 ## File descriptions:
 
