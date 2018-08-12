@@ -1,7 +1,8 @@
 # Flask-related imports
 from flask import Flask, render_template, url_for, redirect, request, session
 
-from databases import add_student # Add functions you need from databases.py on this line!!
+# Add functions you need from databases.py to the next line!
+from databases import add_student, get_all_students
 
 # Starting the flask app
 app = Flask(__name__)

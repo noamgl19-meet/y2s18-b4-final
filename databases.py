@@ -20,3 +20,7 @@ def add_student(student_name, student_year):
     student = Student(name=student_name, year=student_year)
     session.add(student)
     session.commit()
+
+def get_all_students():
+    students = session.query(Student).all()
+    return students
