@@ -6,7 +6,7 @@ To use this starter kit: **DO NOT FORK!**
 ```bash
 git clone https://github.com/meet-projects/y2s18-YOUR_TEAM_NUMBER-final.git
 ```
-Make sure your clone link includes **YOUR ACTUAL TEAM NUMBER** instead of the placeholder `**YOUR_TEAM_NUMBER**`.
+Make sure your clone link includes **YOUR ACTUAL TEAM NUMBER** instead of the placeholder **`YOUR_TEAM_NUMBER`**.
 
 ## File descriptions:
 
